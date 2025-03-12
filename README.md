@@ -34,6 +34,42 @@ This dataframe works in tandem with the 'interactions' dataset, which has 5 colu
 | `'recipe_id'` | Recipe ID           |
 | `'date'`      | Date of interaction |
 | `'rating'`    | Rating given        |
+
+
+
+## Introduction
 | `'review'`    | Review text         |
 
 Our entire exploration is generally centric around the idea of calories and ratings. **How are ratings effected by the amount of calories , and what is the best way to tell how many calories are going to be in a recipe?** Nutrition is a big issue in many areas of the world, and understanding food trends through datasets such as the one above can give important insight into nutritional factors that are more prevalent in the modern diet, and also highlight those features that are lacking. Understanding what and how people eat is an important look into the future of the world, and can become instrumental to shaping the way food is prepared and marketed in the future. 
+
+
+## Data Cleaning and Exploratory Data Analysis
+
+
+
+## Assessment of Missingness
+
+
+
+
+## Hypothesis Testing
+
+
+
+
+## Framing a Prediction Problem
+
+
+
+
+## Baseline Model
+
+
+
+## Final Model
+
+
+## Fairness Analysis
+
+
+
