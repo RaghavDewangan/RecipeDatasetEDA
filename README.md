@@ -101,20 +101,7 @@ Here are the datatypes of all the columns of the filtered dataframe.
 | `'carbohydrates_PDV'` | float64     |
 | `'calorie_category'`  | object      |
    
-Our cleaned filtered dataframe had 232089 rows and 12 columns. The first 5 rows of the dataframe of unique recipes are illustrated below.
-
-<div style="overflow-x: auto;">
-  
-| name                                 |     id |   rating |   avg_rating |   calories |   total_fat_PDV |   sugar_PDV |   sodium_PDV |   protein_PDV |   saturated_fat_PDV |   carbohydrates_PDV | calorie_category   |
-|:-------------------------------------|-------:|---------:|-------------:|-----------:|----------------:|------------:|-------------:|--------------:|--------------------:|--------------------:|:-------------------|
-| 1 brownies in the world    best ever | 333281 |        4 |            4 |      138.4 |              10 |          50 |            3 |             3 |                  19 |                   6 | Low                |
-| 1 in canada chocolate chip cookies   | 453467 |        5 |            5 |      595.1 |              46 |         211 |           22 |            13 |                  51 |                  26 | High               |
-| 412 broccoli casserole               | 306168 |        5 |            5 |      194.8 |              20 |           6 |           32 |            22 |                  36 |                   3 | Low                |
-| millionaire pound cake               | 286009 |        5 |            5 |      878.3 |              63 |         326 |           13 |            20 |                 123 |                  39 | High               |
-| 2000 meatloaf                        | 475785 |        5 |            5 |      267   |              30 |          12 |           12 |            29 |                  48 |                   2 | Medium             |
-
-</div>
-
+Our cleaned filtered dataframe had 232089 rows and 12 columns.
 
 # Univariate Analysis
 
